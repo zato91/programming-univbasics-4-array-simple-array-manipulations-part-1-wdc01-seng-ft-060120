@@ -21,6 +21,6 @@ return x
 end
 
 
-def using_shift(array,args)
+def shift_with_args(array)
  array.shift(args)
 end
